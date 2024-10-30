@@ -156,12 +156,12 @@ export function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div>
               <h3 className="text-lg font-semibold mb-4">Contact</h3>
-              <p className="text-gray-400">hello@uxdesigner.com</p>
-              <p className="text-gray-400">+1 (555) 123-4567</p>
+              <p className="text-gray-400">uxdsrini@gmail.com</p>
+              <p className="text-gray-400">+91 9963092123</p>
             </div>
             <div>
               <h3 className="text-lg font-semibold mb-4">Location</h3>
-              <p className="text-gray-400">San Francisco, CA</p>
+              <p className="text-gray-400">Hyderabad, INDIA</p>
               <p className="text-gray-400">Available Worldwide</p>
             </div>
             <div>
@@ -179,7 +179,7 @@ export function HomePage() {
             </div>
           </div>
          <div className="mt-12 pt-8 border-t border-gray-800 text-center text-gray-400">
-  <p>&copy; {new Date().getFullYear()} UX Designer. All rights reserved.</p>
+  <p>&copy; {new Date().getFullYear()} AIO. All rights reserved.</p>
 </div>
         </div>
       </footer>
