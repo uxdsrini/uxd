@@ -3,10 +3,10 @@ import { Github, Twitter, Linkedin, Instagram } from 'lucide-react';
 
 export function SocialLinks() {
   const socialLinks = [
-    { icon: Twitter, href: '#', label: 'Twitter' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
-    { icon: Github, href: '#', label: 'GitHub' },
-    { icon: Instagram, href: '#', label: 'Instagram' },
+    { icon: Twitter, href: 'https://twitter.com/CreativeboySri', label: 'Twitter' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/srinivasbiskula/', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/uxdsrini', label: 'GitHub' },
+    { icon: Instagram, href: 'https://www.instagram.com/creativeboysri/', label: 'Instagram' },
   ];
 
   return (
