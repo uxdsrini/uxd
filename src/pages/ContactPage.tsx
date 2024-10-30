@@ -26,7 +26,7 @@ export function ContactPage() {
                 <Mail className="w-6 h-6 text-purple-600 mt-1" />
                 <div>
                   <h3 className="font-semibold">Email</h3>
-                  <p className="text-gray-600">hello@uxdesigner.com</p>
+                  <p className="text-gray-600">uxdsrini@gmail.com</p>
                 </div>
               </div>
 
@@ -34,7 +34,7 @@ export function ContactPage() {
                 <Phone className="w-6 h-6 text-purple-600 mt-1" />
                 <div>
                   <h3 className="font-semibold">Phone</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+91 9963092123</p>
                 </div>
               </div>
 
@@ -42,7 +42,7 @@ export function ContactPage() {
                 <MapPin className="w-6 h-6 text-purple-600 mt-1" />
                 <div>
                   <h3 className="font-semibold">Location</h3>
-                  <p className="text-gray-600">San Francisco, CA</p>
+                  <p className="text-gray-600">Hyderabad, INDIA</p>
                   <p className="text-gray-600">Available for remote work worldwide</p>
                 </div>
               </div>
